@@ -8,6 +8,7 @@
 // 8. Imprime un diseño ASCII (por ejemplo, una cara feliz usando símbolos
 // 9. Intenta ejecutar el programa sin el método main y observa el error
 // 10. Intenta cambiar el nombre del archivo a uno diferente del de la clase y compilalo
+package HelloWorld;
 
 public class HelloWorldExercises {
     public static void main(String[] args){
