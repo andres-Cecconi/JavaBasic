@@ -1,6 +1,6 @@
 package beginnerexercises;
 
-public class Exercises {
+public class VariablesExercises {
 
     public static void main(String[] args) {
 
